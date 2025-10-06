@@ -1,4 +1,5 @@
 INITIATIVE DES FORETS COMMUNAUTAIRES EN TERRITOIRE DE WALIKALE
+
 Ce projet SIG vise a cartographier les forets communautaires dans le territoire de Walikale. Il s'agit des Initiatives de forets communautaires qui ont manifeste le besoin 
 d'obtenir leur titre foncier (Concession de Foret Communautaire Locale - CFCL) conformement a la loi congolaise en la matiere.
 
